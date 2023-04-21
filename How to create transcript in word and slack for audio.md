@@ -1,4 +1,4 @@
-## How to create transcript in word and slack for audio
+# How to create transcript in word and slack for audio
 
 ### Using MS Word
 
