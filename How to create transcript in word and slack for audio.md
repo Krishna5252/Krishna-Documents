@@ -9,6 +9,7 @@ STEP 5: After uploading select the document and choose the option JUST TEXT then
 ###  Transcript extraction using Slack
 STEP 1: Download the required audio file .  
 STEP 2: Open the slack application and upload or send audio file to anyone.  
-STEP 3: Below of audio file transcript automatically generated, Like view transcript. [![](https://assets2.gyazo.com/favicon.ico)Screenshot by Gyazo](https://gyazo.com/c75bd9b64e22cebd634f07900c60fb51)  
+STEP 3: Below of audio file transcript automatically generated, Like view transcript. 
+![](https://i.gyazo.com/c75bd9b64e22cebd634f07900c60fb51.png) 
 STEP 4: If you click on view transcript, Transcript of your audio file is showing.  
 STEP 5: Copy transcript and paste it in your required location.
